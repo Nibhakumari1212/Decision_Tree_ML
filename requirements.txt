@@ -1,3 +1,5 @@
-joblib
 fastapi
+pandas
 scikit-learn
+joblib
+streamlit
